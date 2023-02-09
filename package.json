@@ -20,12 +20,12 @@
     "test:coverage": "vitest run --coverage"
   },
   "keywords": [
-    "typescript"
+    "typescript",
+    "template"
   ],
   "author": "didof <didonato.fr@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@changesets/cli": "^2.26.0",
     "@vitest/coverage-c8": "^0.28.4",
     "ts-node": "^10.9.1",
     "tsup": "^6.5.0",
